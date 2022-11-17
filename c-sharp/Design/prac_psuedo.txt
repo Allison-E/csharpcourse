@@ -1,0 +1,44 @@
+window in metres
+glass sold in sq metres
+wood sold in ft
+amount of wood in ft and inches
+window width btw .5 and 3.5m inclusive
+height btw .5 and 2m
+largest possible dimensions .25sqm and 8.75sqm
+1m = 3.25ft
+1ft = 12 in
+
+level 1 psuedocode
+
+area = height * width (h * w)
+feet = side * 3.25
+inches = feet / 12
+perimeter = (2 * h) + (2 * w)
+
+level 2 psuedocode
+
+.5 <= height <= 2
+.5 <= width <= 3.5
+area = h * w 
+(do this for each side, height and width)
+side_in_ft = side * 3.25 
+side_in_inch = side_in_ft * 12
+side_ft_inch = side_in_ft + ((side_in_ft % 12) / 12 )
+
+total_wood = (height * 2) + (width * 2)
+
+
+Class diagram:
+
++--------------------------+
+|           Area		   | Classname
++--------------------------+
+|           Area		   |
+|          Height          | Attributes
+|           Width		   |
+|         Perimeter        |
++--------------------------+
+|           check          |
+|      	  side_in_ft       |
+|       side_in_ft_inch    |
++--------------------------+
