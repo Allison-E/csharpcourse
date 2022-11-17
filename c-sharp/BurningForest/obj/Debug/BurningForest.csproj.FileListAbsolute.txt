@@ -1,0 +1,6 @@
+C:\Dev\c-sharp\BurningForest\bin\Debug\BurningForest.exe.config
+C:\Dev\c-sharp\BurningForest\bin\Debug\BurningForest.exe
+C:\Dev\c-sharp\BurningForest\bin\Debug\BurningForest.pdb
+C:\Dev\c-sharp\BurningForest\obj\Debug\BurningForest.csproj.CoreCompileInputs.cache
+C:\Dev\c-sharp\BurningForest\obj\Debug\BurningForest.exe
+C:\Dev\c-sharp\BurningForest\obj\Debug\BurningForest.pdb

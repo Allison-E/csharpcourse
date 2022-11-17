@@ -1,0 +1,7 @@
+C:\Dev\c-sharp\linkedlists\bin\Debug\linkedlists.exe.config
+C:\Dev\c-sharp\linkedlists\bin\Debug\linkedlists.exe
+C:\Dev\c-sharp\linkedlists\bin\Debug\linkedlists.pdb
+C:\Dev\c-sharp\linkedlists\obj\Debug\linkedlists.csproj.CoreCompileInputs.cache
+C:\Dev\c-sharp\linkedlists\obj\Debug\linkedlists.exe
+C:\Dev\c-sharp\linkedlists\obj\Debug\linkedlists.pdb
+C:\Dev\c-sharp\linkedlists\obj\Debug\linkedlists.csproj.AssemblyReference.cache
