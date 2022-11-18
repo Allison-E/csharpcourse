@@ -78,17 +78,8 @@ namespace LLcsharp
         {
             Console.WriteLine("Adding town " + name + " at the start");
             TownNode current = new TownNode(name);
-
-            if (start == null)
-            {
-                start = current;
-                end = current;
-            }
-            else
-            {
-                end.setNext(current);
-                start = current;
-            }
+            current.setNext(start);
+            start = current;
         }
         public void listAllNames()
         {
